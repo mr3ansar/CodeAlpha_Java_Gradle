@@ -132,7 +132,7 @@ On every push to the `main` branch the pipeline automatically:
 6. Runs all unit tests
 7. Uploads the test report as a downloadable artifact
 
-Pipeline status: ![CI](https://github.com/YOUR_USERNAME/CodeAlpha_Java_Gradle/actions/workflows/gradle-ci.yml/badge.svg)
+Pipeline status: ![CI](https://github.com/mr3ansar/CodeAlpha_Java_Gradle/actions/workflows/gradle-ci.yml/badge.svg)
 
 ---
 
